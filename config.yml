@@ -1,6 +1,6 @@
 baseURL: "https://tsemo4917.github.io/"
 title: 'tsemo4917 Site'
-paginate: 5
+# pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -41,6 +41,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  social: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
